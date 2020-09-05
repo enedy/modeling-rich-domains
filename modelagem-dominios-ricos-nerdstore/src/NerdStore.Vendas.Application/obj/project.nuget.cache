@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7D1uOl6bilYACZrsLrJRugoOFZGXGvvh+hhbuEkAaE0h4QeBalvhKJblZOBa/kghTVrbvn8BdsANMYeTlgEqyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\New\\projetos-estudo-desenvolvedor-io\\ddd-nerdstore-projeto-desenvolvido-curso-desenvolvedor.io\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enedy\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\enedy\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\enedy\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\enedy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\enedy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\enedy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
