@@ -1,7 +1,7 @@
-# Modelagem de Dominios Ricos - Nerdstore
+# Modeling Rich Domains - Nerdstore
 Projeto de estudo desenvolvido referente a modelagem de domínios ricos
 
-## Tecnologias Utilizadas no Projeto
+## Technologies used
 - ASP.NET Core 3.0
 - ASP.NET MVC Core
 - .NET Core Native DI
@@ -10,7 +10,7 @@ Projeto de estudo desenvolvido referente a modelagem de domínios ricos
 - MediatR
 - AutoMapper
 
-## Implementação
+## Implementation
 - CQRS
 - Unit Of Work
 - Repository
